@@ -59,7 +59,7 @@
 - **Left 4 Dead 2** (Multiplayer)
     - i love killing zombies
 - **Overwatch** (Multiplayer)
-    - hero-based team deathmatch by Blizzard. i'm sure it's a blast)
+    - hero-based team deathmatch by Blizzard. i'm sure it's a blast
 
 ## Sidescrolling platformers and Metroidvanias
 - **Hollow Knight** (Singleplayer)
@@ -83,6 +83,7 @@
 - **Katana Zero** (Singleplayer)
     - Taking influence from Hotline Miami, it's a type of sidescrolling cyberpunk game with an assassin samurai.
 - **Hyper Light Drifter** (Singleplayer)
+    - Gorgeous pixel art action game. Explore the map to gain items to open new places. Zelda-like.
 - **Ruiner** (Singleplayer)
     - I never knew I enjoyed being called puppy. Hi puppy, 
 
@@ -102,14 +103,20 @@
     - One of my absolute favorites of 2018. Logical deduction game on a 19th century ship -- your job is to deduce how every sailor died by listening to and examining a the frozen moment in time of their death.
 - **The Room 1, 2 & 3** (Singleplayer)
     - You solve 3D puzzle boxes. Cooler than it sounds. Very visually engaging and a surprisingly good story
+- **The House of Da Vinci** (Singleplayer)
+    - Essentially the Room with a medieval Italian theme. If you wanted more Room, this will scratch that itch.
 - **Unheard** (Singleplayer)
     - Logic deduction game -- Listen in on conversations happening throughout the building to piece together the story and answer a key question, such as who is the murderer
 - **The Witness** (Singleplayer)
     - Puzzle game with an absolutely gorgeous 3D overworld with line-running mazes as the gameplay. Sounds bad -- is good.
+- **The Turing Test** (Singleplayer)
+    - First-person, portal-like puzzle game where you progress through rooms while meditating on the metaphysics of consciousness.
 - **The Talos Principle** (Singleplayer)
+    - First-person puzzle game that also meditates on metaphysics. I liked The Turing Test more, but your opinion may differ.
 - **Baba is You** (Singleplayer)
-- **The House of Da Vinci** (Singleplayer)
+    - Innovative game where you move words around to form phrases that change the rules of the world. [Baba] [Is] [You] becomes [Rock] [Is] [You] and congrats, you now control the rock. Use this to solve puzzles.
 - **Mini Metro** (Singleplayer)
+    - Lovely minimalist 2D game where you manage a public metro system.
 
 ## Horror
 - **Soma** (Singleplayer)
