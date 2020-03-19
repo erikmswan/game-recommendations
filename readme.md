@@ -2,6 +2,8 @@
 # Game recommendations:
 
 ## Story-driven first person
+- **Subnautica** (Singleplayer)
+    - One of my favorite games of all time, it helped me overcome my thalassaphobia. Nothing is scarier than swimming in the ocean at night only to hear the roar of a Reaper. Build underwater bases, control vehicles large and small and discover alien secrets when you become stranded on an alien world.
 - **Bioshock Infinite** (Singleplayer)
     - Unravel the secrets of a colonial America themed flying city. Story gets absolutely nuts.
 - **Prey** (Singleplayer)
@@ -22,8 +24,6 @@
     - Actually Living in the Wild West simulator, this game is an achievement in so many ways. Try it.
 - **The Witcher 3: The Wild Hunt** (Singleplayer)
     - Developed by a Czech company based on a Polish book, The Witcher 3 rules. The graphics are gorgeous and the story is so engaging they made a TV series from it. Geralt is such a likeable character. The game always keeps it fresh. A higher learning curve than normal. Can't recommend this enough.
-- **Subnautica** (Singleplayer)
-    - One of my favorite games of all time, it helped me overcome my thalassaphobia. Nothing is scarier than swimming in the ocean at night only to hear the roar of a Reaper. Build underwater bases, control vehicles large and small and discover alien secrets when you become stranded on an alien world.
 - **Batman: Arkham Knight** (Singleplayer)
     - I only played Arkham Asylum and some of Arkham City, but might as well try the new one. These Batman games (minus Origins) are solid and make you feel like Batman.
 - **Middle Earth: Shadow of War** (Singleplayer)
@@ -35,7 +35,7 @@
 - **Kerbal Space Program** (Singleplayer)
     - Build rockets with realistic physics and explore a 1/10 scale solar system. For a certain kind of person, this is as good as it gets. You have to learn real orbital mechanics to succeed. Make sure you have enough fuel to get into orbit, then start your burn before the apoapsis by dividing your delta V in half. It is what you make it.
 - **Space Engineers** (Single/Multiplayer)
-    - Like Kerbal legos. Extremely deep. Admittedly, I haven't even scratched the surface on thsi one.
+    - Like Kerbal legos. Extremely deep. Admittedly, I haven't even scratched the surface on this one.
 - **Watch_Dogs 2** (Singleplayer)
     - GTA V but with hackers. Cheesy as all get out, but it has its charm. Drive around the bay area and hack shit.
 
@@ -64,6 +64,8 @@
 ## Sidescrolling platformers and Metroidvanias
 - **Hollow Knight** (Singleplayer)
     - Unbelievably good. The story, the art, the gameplay -- it is one of the greatest metroidvanias of all time. I can't wait for the sequel, Silksong.
+- **Inside** (Singleplayer)
+    - Made by the same people who made Limbo, there's no dialogue, just a child escaping an unknown aggressive group of people, digging deeper into an apocalyptic looking society. So many tense moments. Amazing visual storytelling and art direction. I can't say enough good things about this game.
 - **Dead Cells** (Singleplayer)
     - Combination of procedurally generated roguelike with a metroidvania. Death is permanent, but necessary -- every run gives you currency to purchase more and better weapons, which help you progress even farther. Great fun.
 - **Steamworld Dig 1 & 2** (Singleplayer)
@@ -80,7 +82,9 @@
     - Especially Hotline Miami 1, this was a groundbreaking game. 80's setting, wonderful music, super violent, top-down twitch action game. Mind-bending story.
 - **Katana Zero** (Singleplayer)
     - Taking influence from Hotline Miami, it's a type of sidescrolling cyberpunk game with an assassin samurai.
-- **Hyper Light Drifter** (Signleplayer)
+- **Hyper Light Drifter** (Singleplayer)
+- **Ruiner** (Singleplayer)
+    - I never knew I enjoyed being called puppy. Hi puppy, 
 
 ## Couch Co-op & fun with friends
 - **Lovers in a Dangerous Spacetime** (Single/Multiplayer)
@@ -89,7 +93,9 @@
     - An excellent, modern top-down shmup with a fun setting of colonial America on Mars. Gets very difficult -- fun to play with friends.
 - **Portal 2** (Single/Multiplayer)
 - **Don't Starve Together** (Single/Multiplayer)
+    - A fun top-down survival/crafting game. Wonderful illustrated art style. Takes a bit to learn the build system.
 - **Overcooked 1 & 2** (Single/Multiplayer)
+    - I've always wanted to get a good group playing this, but everyone I play it with says it is too stressful. Up to 4 people work in a kitchen to prepare meals -- chop stuff, cook stuff, and basically manage a kitchen while all coordinating with each other. A great challenge, but -- yeah it's as stressful as it sounds.
 
 ## Puzzle
 - **The Return of the Obra Dinn** (Singleplayer)
@@ -99,9 +105,11 @@
 - **Unheard** (Singleplayer)
     - Logic deduction game -- Listen in on conversations happening throughout the building to piece together the story and answer a key question, such as who is the murderer
 - **The Witness** (Singleplayer)
+    - Puzzle game with an absolutely gorgeous 3D overworld with line-running mazes as the gameplay. Sounds bad -- is good.
 - **The Talos Principle** (Singleplayer)
 - **Baba is You** (Singleplayer)
 - **The House of Da Vinci** (Singleplayer)
+- **Mini Metro** (Singleplayer)
 
 ## Horror
 - **Soma** (Singleplayer)
