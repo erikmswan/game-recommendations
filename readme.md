@@ -27,13 +27,13 @@
 - **Batman: Arkham Knight** (Singleplayer)
     - I only played Arkham Asylum and some of Arkham City, but might as well try the new one. These Batman games (minus Origins) are solid and make you feel like Batman.
 - **Middle Earth: Shadow of War** (Singleplayer)
-    - Innovative "Nemesis" system that makes it fun to recruit an orc army and conquer orc strongholds. Epic in scope. It's total shlock and Tolkien would have hated but I love it.
+    - Innovative "Nemesis" system that makes it fun to recruit an orc army and conquer orc strongholds. Epic in scope. It's total shlock and Tolkien would have hated it but I love it.
 - **Mad Max** (Singleplayer)
     - Great driving mechanics, decent combat and wonderful environment/level design. Gets repetitive but still worth playing.
 - **Sleeping Dogs** (Singleplayer)
     - Set in China, it has an interesting story and good open-world gameplay.
 - **Kerbal Space Program** (Singleplayer)
-    - Build rockets with realistic physics and explore a 1/10 scale solar system. For a certain kind of person, this is as good as it gets. You have to learn real orbital mechanics to succeed. Make sure you have enough fuel to get into orbit, then start your burn before the apoapsis by dividing your delta V in half. It is what you make it.
+    - Build rockets with realistic physics and explore a 1/10 scale solar system. For a certain kind of person, this is as good as it gets. You have to learn real orbital mechanics to succeed. Make sure you have enough fuel to get into orbit, then start your burn before the periapsis by dividing your delta V in half. It is what you make it.
 - **Space Engineers** (Single/Multiplayer)
     - Like Kerbal legos. Extremely deep. Admittedly, I haven't even scratched the surface on this one.
 - **Watch_Dogs 2** (Singleplayer)
@@ -100,7 +100,7 @@
 
 ## Puzzle
 - **The Return of the Obra Dinn** (Singleplayer)
-    - One of my absolute favorites of 2018. Logical deduction game on a 19th century ship -- your job is to deduce how every sailor died by listening to and examining a the frozen moment in time of their death.
+    - One of my absolute favorites of 2018. Logical deduction game on a 19th century ship -- your job is to deduce how every sailor died by listening to and examining the frozen moment in time of their death.
 - **The Room 1, 2 & 3** (Singleplayer)
     - You solve 3D puzzle boxes. Cooler than it sounds. Very visually engaging and a surprisingly good story
 - **The House of Da Vinci** (Singleplayer)
