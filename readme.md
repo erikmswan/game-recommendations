@@ -11,26 +11,41 @@
 - Call of Cthulhu (Singleplayer)
     - Decent enough lovecraftian horror, choice-driven gameplay with light detective elements. Scratches that Cosmic Horror itch.
 - What Remains of Edith Finch (Singleplayer)
-    - A wonderful experience, perfect for playing with a partner. This game was such a delight. There is no combat, just digging into the family of Edith Finch by exploring her childhood home and progressing through innovative story pieces. Very sad at parts.)
+    - A wonderful experience, perfect for playing with a partner. This game was such a delight. There is no combat, just digging into the family of Edith Finch by exploring her childhood home and progressing through innovative story pieces. Very sad at parts.
 - The Vanishing of Ethan Carter (Singleplayer)
+    - A full logical deduction game. Absolutely stunning graphics, however there are no people you interact with, you explore the environment to solve mysteries and experience existential pontifications.
 
 ## Third person sandbox
 - GTA V (Single/Multiplayer)
+    - Amazing in scope and detail. If you haven't played this yet, you really should.
 - Red Dead Redemption 2 (Single/Multiplayer)
+    - Actually Living in the Wild West simulator, this game is an achievement in so many ways. Try it.
 - The Witcher 3: The Wild Hunt (Singleplayer)
-- Batman Arkham Knight (Singleplayer)
-- Middle Earth: Shadow of Mordor/War (Singleplayer)
-- Mad Max (Singleplayer)
-- Sleeping Dogs (Singleplayer)
+    - Developed by a Czech company based on a Polish book, The Witcher 3 rules. The graphics are gorgeous and the story is so engaging they made a TV series from it. Geralt is such a likeable character. The game always keeps it fresh. A higher learning curve than normal. Can't recommend this enough.
 - Subnautica (Singleplayer)
+    - One of my favorite games of all time, it helped me overcome my thalassaphobia. Nothing is scarier than swimming in the ocean at night only to hear the roar of a Reaper. Build underwater bases, control vehicles large and small and discover alien secrets when you become stranded on an alien world.
+- Batman: Arkham Knight (Singleplayer)
+    - I only played Arkham Asylum and some of Arkham City, but might as well try the new one. These Batman games (minus Origins) are solid and make you feel like Batman.
+- Middle Earth: Shadow of War (Singleplayer)
+    - Innovative "Nemesis" system that makes it fun to recruit an orc army and conquer orc strongholds. Epic in scope. It's total shlock and Tolkien would have hated but I love it.
+- Mad Max (Singleplayer)
+    - Great driving mechanics, decent combat and wonderful environment/level design. Gets repetitive but still worth playing.
+- Sleeping Dogs (Singleplayer)
+    - Set in China, it has an interesting story and good open-world gameplay.
 - Kerbal Space Program (Singleplayer)
+    - Build rockets with realistic physics and explore a 1/10 scale solar system. For a certain kind of person, this is as good as it gets. You have to learn real orbital mechanics to succeed. Make sure you have enough fuel to get into orbit, then start your burn before the apoapsis by dividing your delta V in half. It is what you make it.
 - Space Engineers (Single/Multiplayer)
+    - Like Kerbal legos. Extremely deep. Admittedly, I haven't even scratched the surface on thsi one.
 
 ## Third person action
 - Devil May Cry 3 & 5 (Singleplayer)
+    - Devil May Cry 3 is a classic that I grew up with -- one of the best of the series. A ridiculously over the top action hero, half-demon Dante is a mercenary that hunts other demons. Devil May Cry 5 is the very worth successor and has the best action game thrills around.
 - Bayonetta (Singleplayer)
+    - A spiritual successor to DMC 3, Bayonetta is an over-the-top Japanese bonanza that outdoes even DMC 3 in ridiculousness.
 - Nier: Automota (Singleplayer)
+    - A unique game featuring a few different game genres mashed into one, Nier: Automata is a fun Japanese action game.
 - Star Wars Jedi: Fallen Order (Singleplayer)
+    - A Star Wars souls-like -- fun to explore and stunning graphics. Good for 20+ hours.
 
 ## Multiplayer FPS
 - Doom 2016 & Doom Eternal (Single/Multiplayer)
@@ -46,8 +61,10 @@
 
 ## Sidescrolling platformers and Metroidvanias
 - Hollow Knight (Singleplayer)
+    - Unbelievably good. The story, the art, the gameplay -- it is one of the greatest metroidvanias of all time. I can't wait for the sequel, Silksong.
 - Dead Cells (Singleplayer)
-- Steamwrold Dig 1 & 2 (Singleplayer)
+    - Combination of procedurally generated roguelike with a metroidvania. Death is permanent, but necessary -- every run gives you currency to purchase more and better weapons, which help you progress even farther. Great fun.
+- Steamworld Dig 1 & 2 (Singleplayer)
 - Ori and the Blind Forest 1 & 2 (Singleplayer)
 - Guacamelee! 2 (Singleplayer)
 - Celeste (Singleplayer)
@@ -79,7 +96,7 @@
 
 ## Horror:
 - Soma (Singleplayer)
-    - Existential crisis at a thermal plant at the bottom of the ocean -- often terrifying -- this game gets 10/10 from me
+    - Existential crisis at a thermal plant at the bottom of the ocean -- unbelievably good and terrifying -- this game gets 10/10 from me
 - Outlast (Singleplayer)
     - The gold standard of disturbing, violent horror that takes place in an asylum.
 - Observer (Singleplayer)
@@ -89,6 +106,7 @@
 - World of Horror (Singleplayer)
     - Fun indie game with retro graphics inspired by Junji Ito & Cosmic Horror
 - Little Nightmares (Singleplayer)
+    - Not scary so much as unsettling and anxious, this game has you controlling a small person in a raincoat in the belly of a giant ship, where things want to kill you. The art direction in this game is supremely good. Great to watch someone else play.
 
 ## Adventure:
 - Unavowed (Singleplayer)
