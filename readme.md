@@ -25,7 +25,7 @@
 - **Subnautica** (Singleplayer)
     - One of my favorite games of all time, it helped me overcome my thalassaphobia. Nothing is scarier than swimming in the ocean at night only to hear the roar of a Reaper. Build underwater bases, control vehicles large and small and discover alien secrets when you become stranded on an alien world.
 - **Batman: Arkham Knight** (Singleplayer)
-    - **I only played Arkham Asylum and some of Arkham City, but might as well try the new one. These Batman games** (minus Origins) are solid and make you feel like Batman.
+    - I only played Arkham Asylum and some of Arkham City, but might as well try the new one. These Batman games (minus Origins) are solid and make you feel like Batman.
 - **Middle Earth: Shadow of War** (Singleplayer)
     - Innovative "Nemesis" system that makes it fun to recruit an orc army and conquer orc strongholds. Epic in scope. It's total shlock and Tolkien would have hated but I love it.
 - **Mad Max** (Singleplayer)
@@ -176,7 +176,7 @@
 
 ## What the hell did I just play?
 - **Paratopic** (Singleplayer)
-    - **It's... scary? This game is utterly bizarre. Can only be done in a single session, the game is about 30 min long** (I think)
+    - It's... scary? This game is utterly bizarre. Can only be done in a single session, the game is about 30 min long (I think)
 - **Pony Island** (Singleplayer)
 
 ## Classics
