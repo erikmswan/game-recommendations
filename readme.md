@@ -36,6 +36,8 @@
     - Build rockets with realistic physics and explore a 1/10 scale solar system. For a certain kind of person, this is as good as it gets. You have to learn real orbital mechanics to succeed. Make sure you have enough fuel to get into orbit, then start your burn before the apoapsis by dividing your delta V in half. It is what you make it.
 - Space Engineers (Single/Multiplayer)
     - Like Kerbal legos. Extremely deep. Admittedly, I haven't even scratched the surface on thsi one.
+- Watch_Dogs 2 (Singleplayer)
+    - GTA V but with hackers. Cheesy as all get out, but it has its charm. Drive around the bay area and hack shit.
 
 ## Third person action
 - Devil May Cry 3 & 5 (Singleplayer)
@@ -65,24 +67,31 @@
 - Dead Cells (Singleplayer)
     - Combination of procedurally generated roguelike with a metroidvania. Death is permanent, but necessary -- every run gives you currency to purchase more and better weapons, which help you progress even farther. Great fun.
 - Steamworld Dig 1 & 2 (Singleplayer)
+    - Dig downwards and collect items and find secrets. Return to the surface for upgrades. Great way to kill 20 hours.
 - Ori and the Blind Forest 1 & 2 (Singleplayer)
-- Guacamelee! 2 (Singleplayer)
+    - Gorgeous metroidvania. The art is sublime, and the gameplay is a good balance of difficult and satisfying.
 - Celeste (Singleplayer)
+    - A fun pixel-art metroidvania.
 - Kingdom Two Crowns (Single/Multiplayer)
+    - A side-scrolling RTS of sorts, you play as a monarch who leads a village. All you can do is collect money, run around and pay for things. But from that simple premise you get a relaxing and engaging experience. Guard yourself each night from the Greed, and each day recruit more to your village. The game mechanics are a bit obscure, but once you get it, it is very fun.
 
 ## Top-down action
 - Hotline Miami 1 & 2 (Singleplayer)
+    - Especially Hotline Miami 1, this was a groundbreaking game. 80's setting, wonderful music, super violent, top-down twitch action game. Mind-bending story.
 - Katana Zero (Singleplayer)
+    - Taking influence from Hotline Miami, it's a type of sidescrolling cyberpunk game with an assassin samurai.
 - Hyper Light Drifter (Signleplayer)
 
-## Couch Co-op & fun with friends:
+## Couch Co-op & fun with friends
 - Lovers in a Dangerous Spacetime (Single/Multiplayer)
+    - Up to four players control different parts of a single ship. It can be great fun, but would recommend at least 3 players for this one!
 - Jamestown (Single/Multiplayer)
+    - An excellent, modern top-down shmup with a fun setting of colonial America on Mars. Gets very difficult -- fun to play with friends.
 - Portal 2 (Single/Multiplayer)
 - Don't Starve Together (Single/Multiplayer)
 - Overcooked 1 & 2 (Single/Multiplayer)
 
-## Puzzle:
+## Puzzle
 - The Return of the Obra Dinn (Singleplayer)
     - One of my absolute favorites of 2018. Logical deduction game on a 19th century ship -- your job is to deduce how every sailor died by listening to and examining a the frozen moment in time of their death.
 - The Room 1, 2 & 3 (Singleplayer)
@@ -94,7 +103,7 @@
 - Baba is You (Singleplayer)
 - The House of Da Vinci (Singleplayer)
 
-## Horror:
+## Horror
 - Soma (Singleplayer)
     - Existential crisis at a thermal plant at the bottom of the ocean -- unbelievably good and terrifying -- this game gets 10/10 from me
 - Outlast (Singleplayer)
@@ -108,7 +117,7 @@
 - Little Nightmares (Singleplayer)
     - Not scary so much as unsettling and anxious, this game has you controlling a small person in a raincoat in the belly of a giant ship, where things want to kill you. The art direction in this game is supremely good. Great to watch someone else play.
 
-## Adventure:
+## Adventure
 - Unavowed (Singleplayer)
 - Primordia (Singleplayer)
 - Technobabylon (Singleplayer)
@@ -119,13 +128,13 @@
 - Ken Follett's The Pillars of the Earth (Singleplayer)
 - Gemini Rue (Singleplayer)
 
-## Isometric RPG:
+## Isometric RPG
 - Disco Elysium (Singlerplayer)
 - Pillars of Eternity 1 & 2 (Singleplayer)
 - Divinity: Original Sin 2 (Single/Multiplayer)
 - Shadow Tactics: Blades of the Shogun (Singleplayer)
 
-## Tactical:
+## Tactical
 - X-COM 1 & 2 (Single/Multiplayer)
 - Shadowrun series (Singleplayer)
 - FTL: Faster than Light (Singleplayer)
@@ -147,7 +156,7 @@
 ## Turn-based Strategy
 - Civilization 6 (Single/Multiplayer)
 
-## Space Ship flying:
+## Space Ship flying
 - Elite Dangerous (Single/Multiplayer)
     - One of my favorite ship-based space simulators. An actual at-scale galaxy to explore, procedurally generated (I'm not kidding about that)
 - No Man's Sky (Multiplayer)
@@ -157,17 +166,20 @@
 - Steamworld Quest: Hand of Gilgamesh (Singleplayer)
 - Slay the Spire (Singleplayer)
 
-## Offbeat recommendatiosn:
+## Offbeat recommendations
 - Do Not Feed The Monkeys (Singleplayer)
 - Papers, Please (Singleplayer)
 - 3030 Deathwar Redux: A Space Odyssey (Singleplayer)
+- The Hex (Singleplayer)
+- Superhot (Singleplayer)
+    - Time only moves when you move. Weird story, fun gameplay.
 
-## What the hell did I just play?:
+## What the hell did I just play?
 - Paratopic (Singleplayer)
     - It's... scary? This game is utterly bizarre. Can only be done in a single session, the game is about 30 min long (I think)
 - Pony Island (Singleplayer)
 
-## Classics:
+## Classics
 - Star Wars: Knights of the Old Republic 1 & 2 (Singleplayer)
 - Fable Anniversary (Singleplayer)
 - Final Fantasy 9 (Singleplayer)
