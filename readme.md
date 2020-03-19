@@ -54,7 +54,7 @@
     - I mean, it's Doom. Absolute blast to play, just fast-paced brutal action. RIP AND TEAR
 - **Counter-strike: Global Offensive** (Multiplayer)
     - It's counter-strike. team-based multiplayer FPS. not my thing really
-- **Rainbow Six: Siege ** (Multiplayer)
+- **Rainbow Six: Siege** (Multiplayer)
     - Great alternative to CS:GO. also not my thing
 - **Left 4 Dead 2** (Multiplayer)
     - i love killing zombies
