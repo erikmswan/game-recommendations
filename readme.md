@@ -85,7 +85,7 @@
 - **Hyper Light Drifter** (Singleplayer)
     - Gorgeous pixel art action game. Explore the map to gain items to open new places. Zelda-like.
 - **Ruiner** (Singleplayer)
-    - I never knew I enjoyed being called puppy. Hi puppy, 
+    - I never knew I enjoyed being called puppy. Hi, puppy.
 
 ## Couch Co-op & fun with friends
 - **Lovers in a Dangerous Spacetime** (Single/Multiplayer)
@@ -173,7 +173,7 @@
 
 ## Space Ship flying
 - **Elite Dangerous** (Single/Multiplayer)
-    - **One of my favorite ship-based space simulators. An actual at-scale galaxy to explore, procedurally generated** (I'm not kidding about that)
+    - One of my favorite ship-based space simulators. An actual at-scale galaxy to explore, procedurally generated (I'm not kidding about that)
 - **No Man's Sky** (Multiplayer)
     - Also giant world, beautiful graphics and somewhat grindy gameplay. Exploration can be fun. Great way to kill time.
 
@@ -200,8 +200,6 @@
 - **Final Fantasy 9** (Singleplayer)
 - **The Dig** (Singleplayer)
 - **Chrono Trigger** (Singleplayer)
-<Infinity engine games>
 - **Planescape: Torment** (Singleplayer)
 - **Baldur's Gate 1 & 2** (Single/Multiplayer)
 - **Icewind Dale 1 & 2** (Single/Multiplayer)
-</Infinity engine games>
